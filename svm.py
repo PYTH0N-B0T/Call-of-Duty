@@ -1,6 +1,6 @@
 # Random Forest Classification
 
-# Importing the libraries
+# Importing the library
 import numpy as np
 import pandas as pd
 import joblib
