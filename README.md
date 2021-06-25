@@ -1,5 +1,5 @@
 # Call-of-Duty
- if there is a issue click here [![](https://github.com/PYTH0N-B0T/Call-of-Duty/issues/new)
+ if there is a issue click here [!](https://github.com/PYTH0N-B0T/Call-of-Duty/issues/new)
 
 ![](images/codmr.jpg)
 
